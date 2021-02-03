@@ -1,0 +1,5 @@
+C:\Asp.net Core\EmployeeManagement\EmployeeManagement.DA\bin\Debug\netcoreapp2.1\EmployeeManagement.DA.deps.json
+C:\Asp.net Core\EmployeeManagement\EmployeeManagement.DA\bin\Debug\netcoreapp2.1\EmployeeManagement.DA.dll
+C:\Asp.net Core\EmployeeManagement\EmployeeManagement.DA\obj\Debug\netcoreapp2.1\EmployeeManagement.DA.csproj.CoreCompileInputs.cache
+C:\Asp.net Core\EmployeeManagement\EmployeeManagement.DA\obj\Debug\netcoreapp2.1\EmployeeManagement.DA.AssemblyInfoInputs.cache
+C:\Asp.net Core\EmployeeManagement\EmployeeManagement.DA\obj\Debug\netcoreapp2.1\EmployeeManagement.DA.AssemblyInfo.cs
