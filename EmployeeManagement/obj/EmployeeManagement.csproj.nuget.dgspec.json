@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Asp.net Core\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {}
+    "C:\\Users\\ts_ki\\OneDrive\\Masaüstü\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {}
   },
   "projects": {
-    "C:\\Asp.net Core\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {
+    "C:\\Users\\ts_ki\\OneDrive\\Masaüstü\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Asp.net Core\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectUniqueName": "C:\\Users\\ts_ki\\OneDrive\\Masaüstü\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
         "projectName": "EmployeeManagement",
-        "projectPath": "C:\\Asp.net Core\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectPath": "C:\\Users\\ts_ki\\OneDrive\\Masaüstü\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
         "packagesPath": "C:\\Users\\ts_ki\\.nuget\\packages\\",
-        "outputPath": "C:\\Asp.net Core\\EmployeeManagement\\EmployeeManagement\\obj\\",
+        "outputPath": "C:\\Users\\ts_ki\\OneDrive\\Masaüstü\\EmployeeManagement\\EmployeeManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

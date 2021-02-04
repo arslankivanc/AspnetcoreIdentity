@@ -70,11 +70,11 @@ namespace EmployeeManagement
             });
             services.AddAuthentication().AddGoogle(opt =>
             {
-                opt.ClientId = "560913271976-57i9q22fplrtdl9v1idkaaf3af4f29mm.apps.googleusercontent.com";
-                opt.ClientSecret = "9YOyk7FycGX7aDNSVtWgJ8P-";
+                opt.ClientId = _config["Authentication:Google:ClientId"];
+                opt.ClientSecret = _config["Authentication:Google:ClientSecret"];
             }).AddFacebook(opt=> {
-                opt.AppId = "460012301822154";
-                opt.AppSecret = "f81ced8c3e77a91365e5709bc97c01aa";
+                opt.AppId = _config["Authentication:Facebook:ClientId"];
+                opt.AppSecret = _config["Authentication:Facebook:ClientSecret"];
             });
             services.AddSingleton<DataProtectionPurposeStrings>();
         }
